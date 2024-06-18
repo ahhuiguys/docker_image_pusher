@@ -14,3 +14,4 @@ apache/apisix:3.0.0-debian
 apache/apisix-dashboard:3.0.0-alpine
 starrocks/fe-ubuntu:3.1.12
 starrocks/be-ubuntu:3.1.12
+starrocks/cn-ubuntu:3.1.12
